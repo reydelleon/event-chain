@@ -1,3 +1,3 @@
 # fusion
 
-a [Sails](http://sailsjs.org) application
+Kind of a hub to integrate different services
