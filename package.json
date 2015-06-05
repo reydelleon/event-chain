@@ -23,6 +23,7 @@
     "include-all": "~0.1.3",
     "lusca": "^1.1.0",
     "passport": "^0.2.2",
+    "passport-basecrm": "^1.0.0",
     "passport-cas": "0.0.3",
     "passport-facebook": "^2.0.0",
     "passport-github": "^0.1.5",
